@@ -1,10 +1,625 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds">
-    <option name="x" value="36" />
-    <option name="y" value="63" />
+  <component name="ChangeListManager">
+    <list default="true" id="f7f9ff78-e24b-45bb-ba2d-d5f8d8a8aeb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileWriter_SKB" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/HiLo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/out/production/HiLo/HiLo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/out/production/HiLo/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/src/HiLo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HiLo/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/windows/controller/RootController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/button1view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/button2view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/rootwin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/JavaFXWindows_SKB.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/button1view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/button2view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/sda/windows/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/sda/windows/controller/RootController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/rootwin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/sda/windows/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MVC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/ProgramowanieI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/Tabliczki 2D.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/Zrzut ekranu 2019-03-31 o 14.24.52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/out/production/Tabliczki 2D/pl/sda/hello/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/Tabliczki 2D/src/pl/sda/hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/abstrakcja.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/EngineStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/GearLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/abstrakcja/src/pl/sda/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/out/production/projekty java/pl/sda/hello/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/Zrzut ekranu 2019-03-31 o 12.15.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/out/production/petla/pl/sda/hello/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/petla.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petla/src/pl/sda/hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/out/production/petleitablicezadania/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/petleitablicezadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/petleitablicezadania/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/progd2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/progd2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/progd2/.idea/progd2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/progd2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/ps/Zrzut ekranu 2019-03-30 o 13.45.12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/sda-tor4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/src/pl/sda/hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice zadania/tablice zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/out/production/tablice/pl/sda/hello/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/src/pl/sda/hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tablice/tablice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/src/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/tocobylo/tocobylo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/out/production/warunki logiczne/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/warunki logiczne/warunki logiczne.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/src/pl/sda/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/src/pl/sda/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniaprogramowanieobiektowe/zadaniaprogramowanieobiektowe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Animal$Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Animal$Mammal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Goldfish$Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Goldfish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Human$Mammal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/out/production/zadanieabstrakcjadziedziczenie/pl/sda/Mammal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/src/pl/sda/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/src/pl/sda/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/src/pl/sda/Goldfish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/src/pl/sda/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/src/pl/sda/Mammal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieabstrakcjadziedziczenie/zadanieabstrakcjadziedziczenie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/out/production/zadaniedane/pl/sda/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/out/production/zadaniedane/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/out/production/zadaniedane/pl/sda/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/src/pl/sda/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/src/pl/sda/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedane/zadaniedane.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/out/production/zadaniedwieklasy/pl/sda/Addition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/out/production/zadaniedwieklasy/pl/sda/Computation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/out/production/zadaniedwieklasy/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/out/production/zadaniedwieklasy/pl/sda/Multiplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/src/pl/sda/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/src/pl/sda/Computation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/src/pl/sda/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniedwieklasy/zadaniedwieklasy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/out/production/zadanieinterfaces/META-INF/zadanieinterfaces.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/out/production/zadanieinterfaces/pl/sda/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/out/production/zadanieinterfaces/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/out/production/zadanieinterfaces/pl/sda/Perimeter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/out/production/zadanieinterfaces/pl/sda/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/out/production/zadanieinterfaces/pl/sda/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/src/pl/sda/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/src/pl/sda/Perimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/src/pl/sda/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/src/pl/sda/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadanieinterfaces/zadanieinterfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/obiekt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/objekt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/out/production/zadaniezamowienie/META-INF/zadaniezamowienie.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/out/production/zadaniezamowienie/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/out/production/zadaniezamowienie/pl/sda/Pozycja.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/out/production/zadaniezamowienie/pl/sda/Zamowienie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/src/pl/sda/Pozycja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/src/pl/sda/Zamowienie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zadaniezamowienie/zadaniezamowienie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/objekt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/out/production/zapisywaniedopliku/pl/sda/Exeptions/CustomExeption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/out/production/zapisywaniedopliku/pl/sda/Exeptions/CustomRuntimeExeption.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/out/production/zapisywaniedopliku/pl/sda/Filewrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/out/production/zapisywaniedopliku/pl/sda/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/out/production/zapisywaniedopliku/pl/sda/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/plik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/src/pl/sda/Exeptions/CustomExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/src/pl/sda/Exeptions/CustomRuntimeExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/src/pl/sda/Filewrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/src/pl/sda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/src/pl/sda/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieI/zapisywaniedopliku/zapisywaniedopliku.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../builder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/day8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/META-INF/day8.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/CompareWorkerDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/CompareWorkerDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/SuitPersonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/Worker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/collections/IteratorDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/collections/ListDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/collections/ListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/collections/MapDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/collections/SetDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/dayeight/MagicBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/dayeight/MagicBoxDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/dayeight/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/dayeight/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/dayeight/SuitPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/BasicFun$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/BasicFun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/Decrement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/Fun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/Increment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/OptionalDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/out/production/day8/csjava/fun/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/CompareWorkerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/SuitPersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/collections/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/collections/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/collections/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/collections/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/dayeight/MagicBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/dayeight/MagicBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/dayeight/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/dayeight/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/dayeight/SuitPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/fun/BasicFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day8/src/csjava/fun/OptionalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../employee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pogodowa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/pl/sda/hello/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../student" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/windows/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/windows/App.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/rootwin.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/windows/controller/RootController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="21" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/windows/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/windows/ButtonOneController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/windows/RootController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/button1view.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/windows/controller/RootController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/windows/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/rootwin.fxml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="32" />
     <option name="width" value="1370" />
     <option name="height" value="736" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="windows" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="windows" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaFXWindows_SKB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaFXWindows_SKB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.windows.App" />
+      <module name="JavaFXWindows_SKB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.windows.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="false">
+        <include_pattern>
+          <option name="PATTERN" value="pl.sda.windows.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="true" />
+        </include_pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7f9ff78-e24b-45bb-ba2d-d5f8d8a8aeb8" name="Default Changelist" comment="" />
+      <created>1564906141632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564906141632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="776" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23748212" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Messages" weight="0.32919255" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32919255" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="JOL" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/windows/ButtonTwoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/javafx-src.zip!/javafx/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="304" column="25" selection-start-line="304" selection-start-column="25" selection-end-line="304" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/button1view.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/button2view.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="2407" column="17" selection-start-line="2407" selection-start-column="17" selection-end-line="2407" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/rootwin.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/windows/controller/RootController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/windows/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
